@@ -1,0 +1,6 @@
+dist
+node_modules
+test/__mocks__
+*.config.js
+reportWebVitals.ts
+setupTests.ts
